@@ -8,3 +8,4 @@ missingno
 numpy
 pandas
 wordcloud
+collections
