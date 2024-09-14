@@ -9,3 +9,4 @@ numpy
 pandas
 wordcloud
 collections
+plotly
