@@ -1,12 +1,24 @@
-nltk
+# Librerías para notebook
 ipykernel
 ipython
 jupyter_client
 jupyter_core
-matplotlib
-missingno
-numpy
+
+# Librerías para análisis y procesamiento de datos
 pandas
-wordcloud
+numpy
+scipy
 collections
+# Librerías para procesamiento de lenguaje natural
+nltk
+
+# Librerías para visualización
+matplotlib
+seaborn
 plotly
+missingno
+wordcloud
+
+# Librerías para machine learning y estadísticas
+scikit-learn
+category_encoders
