@@ -22,3 +22,4 @@ wordcloud
 # Librerías para machine learning y estadísticas
 scikit-learn
 category_encoders
+imbalanced-learn
